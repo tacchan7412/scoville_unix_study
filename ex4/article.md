@@ -62,6 +62,7 @@
 以下のコマンドを打ってください。内容については考えないでください。
 `$ cd`
 `$ git clone https://github.com/tacchan7412/scoville_unix_study.git`
+`cd scoville_unix_study`
 `$ chmod u+x set_up.sh`
 このリポジトリは練習問題用です。
 

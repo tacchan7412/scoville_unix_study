@@ -1,0 +1,3 @@
+「こうだよ。」
+$ find . -name ans.sh
+$ cp *.txt path/to/the/answer
